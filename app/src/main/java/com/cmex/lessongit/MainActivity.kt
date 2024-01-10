@@ -13,6 +13,6 @@ class MainActivity : AppCompatActivity() {
         binding.tvText.setTextColor(getColor(R.color.white))
         binding.tvText.textSize="22".toFloat()
         binding.clMain.setBackgroundResource(R.color.black)
-        binding.tvText.text="Первое подключением к GitHub"
+        binding.tvText.text=getString(R.string.text)
     }
 }
