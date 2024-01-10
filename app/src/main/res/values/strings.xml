@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LessonGit</string>
+    <string name="text">Первое подключением к GitHub</string>
 </resources>
