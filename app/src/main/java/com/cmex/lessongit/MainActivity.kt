@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         binding.tvText.textSize=22.0f
         binding.clMain.setBackgroundResource(androidx.constraintlayout.widget.R.color.material_deep_teal_500)
         binding.tvText.text=getString(R.string.text)
+
     }
 }
